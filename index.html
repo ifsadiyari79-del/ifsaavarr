@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>PDF Gösterici — Devam etmek için tıkla</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--glass:rgba(255,255,255,0.04)}
+    html,body{height:100%;margin:0;font-family:Arial, sans-serif;background:linear-gradient(180deg,#071023 0%, #071b2b 100%);color:#e6eef8;overflow-x:hidden}
+    .wrap{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px;box-sizing:border-box}
+    .card{width:100%;max-width:500px;background:var(--card);border-radius:12px;box-shadow:0 6px 20px rgba(2,6,23,0.6);padding:16px;backdrop-filter:blur(6px)}
+    h1{margin:0 0 12px 0;font-size:20px;text-align:center}
+    .btn{display:block;width:100%;padding:14px 0;border-radius:12px;background:linear-gradient(90deg,var(--accent),#7c3aed);color:#021025;font-weight:700;cursor:pointer;border:none;font-size:16px;text-align:center}
+    .pdf-area{margin-top:12px;border-radius:10px;overflow:hidden;background:var(--glass);height:70vh;display:none}
+    .pdf-area iframe{width:100%;height:100%;border:0}
+    @media (max-width:520px){
+      .card{padding:12px;border-radius:10px}
+      h1{font-size:18px}
+      .pdf-area{height:75vh}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Devam etmek için tıkla</h1>
+      <button id="showPdf" class="btn">Tıkla!</button>
+      <div class="pdf-area" id="pdfContainer">
+        <iframe src="köseler amı götü dağıtıcak gg.pdf" id="pdfFrame"></iframe>
+      </div>
+    </div>
+  </div>
+  <script>
+    const showBtn = document.getElementById('showPdf');
+    const pdfArea = document.getElementById('pdfContainer');
+    showBtn.addEventListener('click', () => {
+      pdfArea.style.display = 'block';
+      pdfArea.scrollIntoView({behavior: 'smooth'});
+    });
+  </script>
+</body>
+</html>
