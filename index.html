@@ -20,8 +20,8 @@
       color: var(--text-color);
       display:flex;
       justify-content:center;
-      align-items:center;
-      height:100vh;
+      align-items:flex-start;
+      min-height:100vh;
       padding:10px;
     }
     .card{
@@ -29,12 +29,13 @@
       max-width:500px;
       background: var(--card);
       border-radius: 12px;
-      padding: 20px;
+      padding: 16px;
       box-shadow: 0 6px 20px rgba(2,6,23,0.6);
       backdrop-filter: blur(6px);
       display:flex;
       flex-direction:column;
       align-items:center;
+      margin-top:20px;
     }
     h1{
       margin:0 0 16px 0;
@@ -56,16 +57,14 @@
       margin-bottom:16px;
       transition: transform 0.2s;
     }
-    .btn:hover{
-      transform: scale(1.05);
-    }
+    .btn:active{transform: scale(0.98);}
     .txt-area{
       width:100%;
       background: var(--glass);
       border-radius:10px;
       padding:16px;
       display:none;
-      max-height:70vh;
+      max-height:75vh;
       overflow-y:auto;
       white-space:pre-wrap;
       font-size:16px;
@@ -73,7 +72,8 @@
     }
     @media(max-width:520px){
       h1{font-size:18px;}
-      .txt-area{font-size:15px;max-height:75vh;}
+      .txt-area{font-size:15px;max-height:70vh;}
+      .card{padding:14px;}
     }
   </style>
 </head>
