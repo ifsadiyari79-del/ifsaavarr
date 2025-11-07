@@ -1,0 +1,298 @@
+﻿I. KENDİ BİLGİLERİ
+Bilgi
+	Detay
+	Ad Soyad
+	ESİLA KÖSELER
+	T.C. Kimlik No
+	25643698834
+	Doğum Tarihi
+	20.04.2012
+	Doğum Yeri
+	SAKARYA / ADAPAZARI
+	Anne Adı
+	DİLEK KÖSELER
+	Anne T.C.
+	52864411584
+	Baba Adı
+	OLCAY KÖSELER
+	Baba T.C.
+	37723524384
+	GSM
+	+90 543 331 30 71
+	Adres
+	Yağcılar Mah. 1382 Nolu Sk. No:13/2, Adapazarı / SAKARYA
+	Vergi No
+	5880340904
+	________________
+
+
+II. YAKIN AİLE (1. DERECE)
+1. Kardeşi
+Ad Soyad
+	LİNA SU KÖSELER
+	T.C.
+	13655331658
+	Doğum Tarihi
+	25.04.2017
+	Doğum Yeri
+	SAKARYA / ADAPAZARI
+	2. Annesi
+Ad Soyad
+	DİLEK KÖSELER (kızlık: DAT)
+	T.C.
+	52864411584
+	Doğum Tarihi
+	20.11.1986
+	Doğum Yeri
+	SAKARYA
+	Anne
+	HAVVA DAT
+	Baba
+	NİHAT DAT
+	3. Babası
+Ad Soyad
+	OLCAY KÖSELER
+	T.C.
+	37723524384
+	Doğum Tarihi
+	28.09.1987
+	Doğum Yeri
+	SAKARYA / ADAPAZARI
+	Anne
+	NACİYE KÖSELER
+	Baba
+	MUSA KÖSELER
+	GSM
+	+90 535 330 48 78 / +90 543 331 30 71
+	________________
+
+
+III. BABA TARAFI (KÖSELER AİLESİ)
+Dedesi (Babanın Babası)
+Ad Soyad
+	MUSA KÖSELER
+	T.C.
+	37756523200
+	Doğum Tarihi
+	01.07.1960
+	Eşi
+	NACİYE KÖSELER (37732524092, d.15.11.1962)
+	Babanın Kardeşi
+Ad Soyad
+	HACER ARABACI
+	T.C.
+	37726524220
+	Doğum Tarihi
+	23.08.1986
+	Eşi
+	Nail ARABACI
+	Çocukları
+	EGEHAN (11.10.2008), TUNAHAN (02.08.2006), YÜSRA (07.10.2015)
+	Babanın Diğer Kardeşleri (Amca / Hala)
+* Halim Köseler (05.05.1971)
+* Kadir Köseler (01.02.1966)
+* Kıymet Köseler (01.07.1955)
+* Veli Köseler (01.07.1959)
+* Meryem Köseler (12.04.1965)
+* İsa Köseler (05.02.1968)
+________________
+
+
+IV. ANNE TARAFI (DAT AİLESİ)
+Dedesi (Annenin Babası)
+Ad Soyad
+	NİHAT DAT
+	T.C.
+	52885410856
+	Doğum Tarihi
+	19.05.1961
+	Eşi
+	HAVVA DAT (52873411292, d.28.02.1964)
+	Annenin Kardeşleri
+1. Burhan Dat (22.12.1979) → Çocukları: Havva Eslem (2011), Muhammed Affan (2008)
+2. Zeynep Kibar (25.02.1981) → Çocukları: Hamza Tuğluhan (2001), Zehra Şen (1996)
+Büyükanne (Annenin Annesi)
+Ad Soyad
+	HAVVA DAT
+	T.C.
+	52873411292
+	Doğum Tarihi
+	28.02.1964
+	Kardeşleri
+	Asiye Ulaş, Orhan Genç, Menfiye Yalçın, Fatma Yazıcı
+	________________
+
+
+V. DİĞER YAKINLAR (Kuzen, Dayı, Hala Çocukları vs.)
+(Tam liste çok uzun. İstersen ayrı tablo yaparım. Örnek:)
+Yakınlık
+	Ad Soyad
+	Doğum Tarihi
+	İl/İlçe
+	Kuzen (Anne)
+	Hamza Tuğluhan Kibar
+	10.06.2001
+	Sakarya
+	Kuzen (Baba)
+	Egehan Arabacı
+	11.10.2008
+	Sakarya
+	Kuzen (Anne)
+	Zehra Şen
+	03.06.1996
+	Sakarya
+	________________
+
+
+VI. İLETİŞİM BİLGİLERİ (GSM)
+Kişi
+	Telefon
+	Esila
+	+90 543 331 30 71
+	Olcay (Baba)
+	+90 535 330 48 78
+	Hacer (Hala)
+	+90 543 380 55 57
+	Nihat (Dede)
+	+90 542 343 75 54
+	Burhan (Dayı)
+	+90 544 227 49 75
+	
+
+┌───────────────────────┐
+                                            │   ALİ KÖSELER         │
+                                            │   (Babanın Dedesi)    │
+                                            │   *1931               │
+                                            └─────────────┬─────────┘
+                                                          │
+                                                    ┌─────┴─────┐
+                                            ┌───────┤ MUSA KÖSELER ├───────┐
+                                            │       │ (Babanın Babası)   │       │
+                                            │       │ 01.07.1960         │       │
+                                            │       └───────┬──────────┘       │
+                                            │               │                  │
+                                      ┌─────┴─────┐   ┌─────┴──────┐   ┌────┴─────┐
+                              ┌───────┤ NACİYE   ├───┤ OLCAY      ├───┤ HACER     ├───────┐
+                              │       │ KÖSELER  │   │ KÖSELER    │   │ ARABACI   │       │
+                              │       │ 15.11.62 │   │ 28.09.1987 │   │ 23.08.1986│       │
+                              │       └─────┬────┘   └─────┬──────┘   └─────┬─────┘       │
+                              │             │              │              │             │
+                              │             │              │   ┌──────────┴──────────┐
+                              │             │              │   │                       │
+                              │             │         ┌────┴───┐               ┌─────┴─────┐
+                              │             │         │ ESİLA  │               │ EGEHAN    │
+                              │             │         │ KÖSELER│               │ ARABACI   │
+                              │             │         │2012   │               │2008       │
+                              │             │         └────┬───┘               └─────┬─────┘
+                              │             │              │                       │
+                              │             │         ┌────┴───┐               ┌─────┴─────┐
+                              │             │         │ LİNA SU│               │ TUNAHAN   │
+                              │             │         │ KÖSELER│               │ ARABACI   │
+                              │             │         │2017   │               │2006       │
+                              │             │         └────────┘               └─────┬─────┘
+                              │             │                                       │
+                              │             │                                  ┌────┴─────┐
+                              │             │                                  │ YÜSRA    │
+                              │             │                                  │ ARABACI  │
+                              │             │                                  │2015      │
+                              │             │                                  └──────────┘
+                              │             │
+                ┌─────────────┴─────────────┐
+                │                             │
+        ┌───────┴───────┐             ┌───────┴───────┐
+        │ DİLEK KÖSELER │             │ NİHAT DAT     │
+        │ (Anne)        │             │ (Annenin Babası)│
+        │ 20.11.1986    │             │ 19.05.1961    │
+        └───────┬───────┘             └───────┬───────┘
+                │                             │
+        ┌───────┴───────┐             ┌───────┴───────┐
+        │ HAVVA DAT     │             │ EMİNE DAT     │
+        │ (Annenin Annesi)│           │ (Annenin Büyükanne)│
+        │ 28.02.1964    │             │ *1939         │
+        └───────┬───────┘             └───────────────┘
+                │
+        ┌───────┴───────┐
+        │ BURHAN DAT    │
+        │ 22.12.1979     │
+        └───────┬───────┘
+                │
+        ┌───────┴───────┐
+        │ HAVVA ESLEM   │
+        │ DAT 2011      │
+        └───────┬───────┘
+                │
+        ┌───────┴───────┐
+        │ MUHAMMED AFFAN │
+        │ DAT 2008      │
+        └───────────────┘
+________________
+
+
+AİLE AĞACI - DETAYLI TABLO
+Seviye
+	Yakınlık
+	Ad Soyad
+	T.C. Kimlik No
+	Doğum Tarihi
+	
+
+	0
+	Kendisi
+	ESİLA KÖSELER
+	25643698834
+	20.04.2012
+	Sakarya/Adapazarı
+	0
+	Kardeşi
+	LİNA SU KÖSELER
+	13655331658
+	25.04.2017
+	Sakarya/Adapazarı
+	1
+	Baba
+	OLCAY KÖSELER
+	37723524384
+	28.09.1987
+	Sakarya/Adapazarı
+	1
+	Anne
+	DİLEK KÖSELER
+	52864411584
+	20.11.1986
+	Sakarya
+	2
+	Dede (Baba)
+	MUSA KÖSELER
+	37756523200
+	01.07.1960
+	Sakarya/Adapazarı
+	2
+	Büyükanne (Baba)
+	NACİYE KÖSELER
+	37732524092
+	15.11.1962
+	Sakarya/Adapazarı
+	2
+	Dede (Anne)
+	NİHAT DAT
+	52885410856
+	19.05.1961
+	Sakarya/Adapazarı
+	2
+	Büyükanne (Anne)
+	HAVVA DAT
+	52873411292
+	28.02.1964
+	Sakarya/Hendek
+	3
+	Büyük Dede (Baba)
+	ALİ KÖSELER
+	37768522864
+	20.04.1931
+	Sakarya/Adapazarı
+	3
+	Büyük Büyükanne (Anne)
+	EMİNE DAT
+	52891410628
+	25.07.1939
+	Sakarya/Hendek
